@@ -3,7 +3,7 @@
 
 int main()
 {
-	my1_print("hello my1!");
-	my2_print("hello my2!");
+	test1_print("hello test1!");
+	test2_print("hello test2!");
 	return 0;
 }
